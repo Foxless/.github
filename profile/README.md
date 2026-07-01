@@ -1,5 +1,3 @@
-# .github
-Intro
 # FOXLESS WORKS
 
 Welcome to the official repository space for FOXLESS projects. 
